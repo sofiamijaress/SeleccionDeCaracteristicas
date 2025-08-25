@@ -20,6 +20,6 @@ decímetro cúbico.
 (muy malo) al 10 (excelente).
 
 El trabajo presenta estos documentos:
-* [Documento en formato html]()
-* [Documento en formato ipynb]()
-* [Base de Datos]()
+* [Documento en formato html](A1.4_645700(2).html)
+* [Documento en formato ipynb](A1.4_645700.ipynb)
+* [Base de Datos](VinoTinto.csv)
